@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85278fbb-9fae-41f7-bf1f-8c9342f4b654": {
+      "ProjectGuid": "85278fbb-9fae-41f7-bf1f-8c9342f4b654",
+      "DisplayName": "DapperCRUDAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
